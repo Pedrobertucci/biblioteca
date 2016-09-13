@@ -47,6 +47,7 @@ public class Biblioteca {
         Livro livro = new Livro(titulo,numeroPaginas,numeroExemplares,addAutor(),addEditora());
         listaLivros.add(livro);
         System.out.println("*** Livro Cadastrado com Sucesso! ***");
+        /*atualização*/
     }
 
 
